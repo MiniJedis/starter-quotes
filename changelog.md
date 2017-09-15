@@ -18,3 +18,8 @@ Team members - Taran Rai (Captain), Chris Kwon (First Mate)
 ### Added
 - This CHANGELOG file to hopefully serve as an evolving example of a
   standardized open source project CHANGELOG.
+
+## 0.0.2 - 2017-09-15
+### Added
+- Alien picture is added under /public/pix
+- A new quote is added under /application/models/Quote.php
