@@ -23,3 +23,6 @@ Team members - Taran Rai (Captain), Chris Kwon (First Mate)
 ### Added
 - Alien picture is added under /public/pix
 - A new quote is added under /application/models/Quote.php
+- Added the mouse hover feature to display quotes on images
+- Created actor.php and added a show() controller to handle specific actor information page
+- Formatted the actor.php file
